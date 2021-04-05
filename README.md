@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamulcgn
 - 👀 I’m interested in new things, learning  more and making things better
 - 🌱 I’m currently learning ... a bit more python
-- 📫 How to reach me on Twitter (@_jamul)
+- 📫 Reach me on Twitter (@_jamul)
 
 <!---
 jamulcgn/jamulcgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
